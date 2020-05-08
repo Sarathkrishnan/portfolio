@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 .ion-icon{
     margin-left: 411px;
 }
@@ -14,6 +15,8 @@
      background-color: #525e65;
      color: #d8d9db;
      margin-bottom: 20px;
+     font-family: 'Montserrat', sans-serif;
+     font-weight: 700;
  }
  .p-info{
      color: #d8d9db;
