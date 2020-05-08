@@ -14,9 +14,12 @@
  .head1{
      background-color: #525e65;
      color: #d8d9db;
-     margin-bottom: 20px;
+     margin-top: 30px;
+     margin-bottom: 15px;
      font-family: 'Montserrat', sans-serif;
      font-weight: 700;
+     padding: 8px;
+
  }
  .p-info{
      color: #d8d9db;
@@ -26,9 +29,8 @@
      color: #d8d9db;
      padding: 20px;
  }
- .carousel-item{
-     width: 100%;
- }
+
+ 
  .mybutton{
      background-color: #73ffe2;
      width: 130px;
@@ -38,5 +40,16 @@
      border: none;
      margin-bottom: 10px;
      color:#272e3d ;
+     border-radius: 2px;
+     text-decoration: none;
  }
- 
+ .card{
+     margin-bottom: 10px;
+ }
+
+ .carousel-caption h5{
+     color:#272e3d;
+ }
+ a{
+     text-decoration: none;
+ }
