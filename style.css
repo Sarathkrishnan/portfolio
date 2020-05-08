@@ -26,3 +26,14 @@
  .carousel-item{
      width: 100%;
  }
+ .mybutton{
+     background-color: #73ffe2;
+     width: 130px;
+     height: 40px;
+     font-weight: 600;
+     font-size: larger;
+     border: none;
+     margin-bottom: 10px;
+     color:#272e3d ;
+ }
+ 
