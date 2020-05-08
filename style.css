@@ -1,3 +1,28 @@
 .ion-icon{
     margin-left: 411px;
 }
+ body{
+     background-color:#272e3d;
+     
+ }
+ .jumbotron{
+     background-color:#272e3d ;
+     color: #73ffe2;
+ }
+
+ .head1{
+     background-color: #525e65;
+     color: #d8d9db;
+     margin-bottom: 20px;
+ }
+ .p-info{
+     color: #d8d9db;
+ }
+ .footer{
+     background-color: #222733;
+     color: #d8d9db;
+     padding: 20px;
+ }
+ .carousel-item{
+     width: 100%;
+ }
